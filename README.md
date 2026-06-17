@@ -10,8 +10,8 @@
 | **椭圆曲线 (ECC)** | 1985 | Neal Koblitz, Victor Miller |
 | **时间戳** | 1991 | Stuart Haber, W. Scott Stornetta |
 | **工作量证明 (POW)** | 1992 | Cynthia Dwork, Moni Naor |
-| **拜占庭容错** | 1999 | Miguel Castro, Barbara Liskov |
 | **可编程合约** | 1996 | Ian Grigg, Nick Szabo |
+| **拜占庭容错** | 1999 | Miguel Castro, Barbara Liskov |
 | **哈希算法 (SHA-256)** | 1990-2001 | NIST 美国国家标准与技术研究院 |
 | **数字现金理论** | 1983-2004 | David Chaum, Wei Dai, Hal Finney |
 
