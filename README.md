@@ -53,6 +53,8 @@
 
 2009 年 1 月 3 日，人类历史上第一台去中心化支付永动机，在这个 Windows 视窗里，完成了第一次点火。在创世区块诞生的那一刻，世界上只有一个节点，即中本聪的那台电脑。他既是唯一的矿工，也是唯一的网络维护者。火光微弱，但这束光通过 TCP/IP 协议点亮了世界的黑暗面。谁也未曾料到，这个初生的算法引擎，不久后将裹挟着全球的数字算力滚滚向前，最终将吞噬掉人类 0.5% 的电力。
 
+---
+
 # 比特币系统全栈技术与发明演进史权威档案
 
 ### The Definitive Dossier on Bitcoin Architecture and Invention Evolution
@@ -131,16 +133,6 @@
 ---
 
 ## 第二部分：中本聪原创——11 大核心发明模块
-
-（绝对原创）：
-1. UTXO 账本模型
-2. DAA 难度自动调整机制
-3. 经济激励与减半博弈模型
-6. Bitcoin Script 语言与执行环境
-7. SPV 简单支付验证
-8. Coinbase 创币交易机制
-9. Mempool 交易内存池原型
-11. Wallet & Key Management Prototype
 
 ### Part II: Satoshi Nakamoto's Original Inventions (The Core Engineering & Architecture)
 
