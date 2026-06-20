@@ -185,6 +185,51 @@ Lerner 的结论经过多年完善。几乎可以肯定的是，中本聪（Pato
 他离开了，彻底离开了。
 
 ---
+| 时间 | 事件 |
+| :--- | :--- |
+| <font color="#0056b3">**2008年8月18日**</font> | <font color="#0056b3">有人通过匿名域名注册服务 anonymousspeech.com 和芬兰主机托管公司 Louhi Net Oy 注册了域名 `bitcoin.org`。</font> |
+| <font color="#0056b3">**2008年8月20日**</font> | <font color="#0056b3">中本聪 首次发送电子邮件联系英国密码学家 Adam Back（Hashcash 发明者），邀请其阅读论文草稿。</font> |
+| <font color="#0056b3">**2008年8月21日**</font> | <font color="#0056b3">Adam Back 简短回复，建议其调查 Wei Dai 的“b-money”。Adam Back 当时并未阅读白皮书。</font> |
+| <font color="#0056b3">**2008年8月22日下午4点**</font> | <font color="#0056b3">中本聪 给 Wei Dai 发送邮件，询问 b-money 的发表年份以便在论文中引用，并附上了论文摘要。Wei Dai 随后回复了日期。</font> |
+| <font color="#0056b3">**2008年10月31日**</font> | <font color="#0056b3">中本聪 在 metzdowd.com 密码学邮件列表中发布了主题为“比特币P2P电子现金纸”的邮件，附带9页PDF白皮书链接。Hal Finney、Ray Dillinger 等人随后做出回应。</font> |
+| <font color="#0056b3">**2008年11月3日**</font> | <font color="#0056b3">James A. Donald 对白皮书做出回应，首次引发关于比特币网络扩容规模（带宽和存储）的公开辩论。中本聪 回应并解释了 SPV（简化支付验证）方案，指出每天仅需 12KB 数据即可验证。</font> |
+| <font color="#0056b3">**2008年11月某日**</font> | <font color="#0056b3">中本聪 在邮件列表中公开计算带宽，指出 Visa 每年370亿笔交易（每天1亿笔）所需带宽约 100GB（约18美元），认为“没什么大不了的”。</font> |
+| <font color="#0056b3">**2008年11月14日**</font> | <font color="#0056b3">针对 Hal Finney 提出类似 SETI@Home 的利他主义算力贡献模型，中本聪 明确予以纠正，指出比特币的激励机制是经济性的，完全依赖矿工争夺区块奖励的利己主义与竞争架构。</font> |
+| <font color="#28a745">**2009年1月初**</font> | <font color="#28a745">比特币 v0.1 发布前夕，中本聪 再次发邮件告知 Wei Dai 网站已上线，软件即将发布。</font> |
+| <font color="#28a745">**2009年1月3日 18:15 UTC**</font> | <font color="#28a745">创世区块诞生。Coinbase 参数中嵌入了纯文本信息：“《泰晤士报》2009年1月3日报道：财政大臣即将对银行进行第二次救助”。</font> |
+| <font color="#28a745">**2009年1月9日**</font> | <font color="#28a745">中本聪 在密码学邮件列表中正式发布适用于 Windows 系统的比特币 v0.1 源代码（bitcoin.exe）。</font> |
+| <font color="#28a745">**2009年1月12日**</font> | <font color="#28a745">历史上第一笔个人之间的比特币交易发生，中本聪 在第170区块向 Hal Finney 发送了 10 个比特币。</font> |
+| <font color="#28a745">**2009年5月**</font> | <font color="#28a745">芬兰大学生 Martti Malmi（网名 Sirius）通过邮件联系 中本聪 提供帮助。项目首次从单人开发转变为两人协作。中本聪 委派其撰写网站 FAQ，并严格把关内容，删除了“匿名”和“投资”等措辞。</font> |
+| <font color="#28a745">**2009年11月**</font> | <font color="#28a745">中本聪 在 `bitcoin.org/smf/` 上建立了一个独立的机器论坛。基础设施（代码、网站、论坛、域名）全部由其一人掌控。</font> |
+| <font color="#28a745">**2009年12月**</font> | <font color="#28a745">在 Martti Malmi 的贡献下，比特币 v0.2 版本加入了 Linux 系统支持。</font> |
+| <font color="#28a745">**2009年底**</font> | <font color="#28a745">比特币作为工作原型系统稳定运行，价格几乎为零，挖矿主要依靠 CPU。</font> |
+| <font color="#d9534f">**2010年2月**</font> | <font color="#d9534f">开发者 dwdollar 推出首个基于 PayPal 的比特币交易所“Bitcoin Market”。</font> |
+| <font color="#d9534f">**2010年5月18日**</font> | <font color="#d9534f">Laszlo Hanyecz 在 Bitcointalk 论坛发帖，提议用 1万个比特币购买两份披萨。</font> |
+| <font color="#d9534f">**2010年5月22日**</font> | <font color="#d9534f">19岁大学生 Jeremy Sturdivant 接受披萨交易并用银行卡代付。这笔约 25-30 美元的交易完成了比特币历史上的首次真实价格发现。</font> |
+| <font color="#d9534f">**2010年6月**</font> | <font color="#d9534f">中本聪 开始定期在论坛发帖。Laszlo Hanyecz 编写了 GPU 挖矿软件，中本聪 私信要求其停止发布以推迟“GPU军备竞赛”，并要求论坛帖子悄然沉寂。</font> |
+| <font color="#d9534f">**2010年6月17日**</font> | <font color="#d9534f">中本聪 发帖明确表示，比特币的核心设计在 v0.1 发布时其整个生命周期就已定型。</font> |
+| <font color="#d9534f">**2010年7月14日**</font> | <font color="#d9534f">中本聪 描绘网络最终形态：普通用户使用轻量级客户端，节点数量可能永远不超过10万个，维护工作将交由拥有服务器集群的专家处理。</font> |
+| <font color="#d9534f">**2010年7月15日**</font> | <font color="#d9534f">中本聪 在没有任何公告的情况下，向客户端提交了一项 990KB 的区块大小限制。</font> |
+| <font color="#d9534f">**2010年7月18日**</font> | <font color="#d9534f">Jed McCaleb 利用其原用于万智牌交易的域名推出了 Mt. Gox 交易所。比特币拥有了连续的订单簿 and 美元报价，开始吸引投机者。</font> |
+| <font color="#d9534f">**2010年7月28日（OP_RETURN 漏洞）**</font> | <font color="#d9534f">网络被发现允许任何人花费他人代币的致命漏洞。中本聪 在数小时内单方面修改共识级别的操作码并推送补丁。</font> |
+| <font color="#d9534f">**2010年7月29日**</font> | <font color="#d9534f">中本聪 在论坛重申用户无需运行节点的观点（类比 Usenet）。同日，开发者 Dan Larimer 质疑比特币的交易速率，中本聪 失去耐心并回复：“如果你不相信我或者不明白，我很抱歉，我没有时间去说服你。”</font> |
+| <font color="#d9534f">**2010年8月11日**</font> | <font color="#d9534f">中本聪 发布关于第三方托管的帖子，提出了“黄金被偷后变成铅”的思想实验。</font> |
+| <font color="#d9534f">**2010年8月15日**</font> | <font color="#d9534f">Jeff Garzik 发现第 74,638 区块产生了一笔 1840 亿 BTC 的溢出交易。中本聪 在 5 小时内发布 v0.3.10 补丁并执行硬分叉，撤销了该交易。同日，他单方面禁用了 `OP_CAT` 等一系列可能导致网络瘫痪的操作码。此次更新还加入了一个包含硬编码公钥的“警报系统”（终止开关），该密钥可用于全网冻结交易。</font> |
+| <font color="#d9534f">**2010年8月27日**</font> | <font color="#d9534f">面对关于“米塞斯回归定理”的质询，中本聪 用“可通过通信渠道传输的灰色贱金属”思想实验予以回应。</font> |
+| <font color="#d9534f">**2010年9月**</font> | <font color="#d9534f">Gavin Andresen 获得 SourceForge 代码库的提交权限。</font> |
+| <font color="#d9534f">**2010年9月7日**</font> | <font color="#d9534f">中本聪 再次无预警提交 1MB 区大小限制（计划在未来生效）。</font> |
+| <font color="#d9534f">**2010年10月3日**</font> | <font color="#d9534f">Jeff Garzik 提议将区块上限提高至 7MB，中本聪 以可能导致网络分叉为由拒绝。</font> |
+| <font color="#d9534f">**2010年11月下旬至12月初**</font> | <font color="#d9534f">维基解密被美国金融体系封杀，社区讨论利用比特币捐赠。</font> |
+| <font color="#d9534f">**2010年12月11日**</font> | <font color="#d9534f">针对《PC World》的报道，中本聪 强烈反对维基解密使用比特币，称其“捅了马蜂窝”。</font> |
+| <font color="#d9534f">**2010年12月12日**</font> | <font color="#d9534f">中本聪 在论坛发布第 575 号帖子（常规技术说明），随后下线，此后未再使用公开论坛发帖。</font> |
+| <font color="#d9534f">**2010年末至2011年初**</font> | <font color="#d9534f">中本聪 将最高权限凭证“警报密钥”移交给 Gavin Andresen。</font> |
+| <font color="#6f42c1">**2011年初**</font> | <font color="#6f42c1">中本聪 仍在幕后回复少量邮件，低调推进移交工作。</font> |
+| <font color="#6f42c1">**2011年3月**</font> | <font color="#6f42c1">Jed McCaleb 将 Mt. Gox 交易所卖给居住在东京的法国人 Mark Karpelès。</font> |
+| <font color="#6f42c1">**2011年4月23日**</font> | <font color="#6f42c1">中本聪 向 Mike Hearn 发送了已知最后一封邮件：“我已经转去做其他事情了。Gavin 和其他人会好好照顾它的。”</font> |
+| <font color="#6f42c1">**2011年4月27日**</font> | <font color="#6f42c1">Gavin Andresen 发布接手后的首个客户端 v0.3.21，同日宣布受邀前往 CIA 演讲。</font> |
+| <font color="#6f42c1">**2011年6月14日**</font> | <font color="#6f42c1">Gavin Andresen 在 CIA 总部发表演讲。</font> |
+| <font color="#6f42c1">**2011年中**</font> | <font color="#6f42c1">中本聪 彻底消失。代码迁移至 GitHub，BIP 流程确立，旧的独裁治理模式瓦解。</font> |
+---
 
 # Bitcoin-History-Evidence-Chain
 
