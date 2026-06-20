@@ -656,9 +656,9 @@
 
 ---
 
-## 新一代开发者正在崛起，除了Gavin Andresen外。
+## 新一代开发者正在崛起
 
-2011年加入比特币开发的还有四位开发人员：Matt Corallo、Luke Dashjr、Pieter Wuille 和 Gregory Maxwell。
+2011年，Gavin Andresen获得了中本聪转移的最高权限，另外加入比特币开发的还有四位开发人员：Matt Corallo、Luke Dashjr、Pieter Wuille 和 Gregory Maxwell。
 
 * **Matt Corallo**
   2011年初，一位名叫Matt Corallo的少年（网名“BlueMatt”）开始为该项目做贡献。当时他还是个十几岁的少年。他最初专注于Java实现，也就是后来的Bitcoinj，之后又转向C++代码库。后来，他成为了该参考客户端的核心维护者，并在接下来的十年中，成为架构辩论中最具影响力的人物之一。
