@@ -836,7 +836,7 @@ Lerner 的结论经过多年完善。几乎可以肯定的是，中本聪（Pato
 
 Craig Wright公布的钱包地址是“1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF”和“12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr”，这两个钱包里共有79956+31000=110956枚比特币。另外从链上还能推测出“1ALXLVNj7yKRU2Yki3K3yQGB5TBPof7jyo”里的4000枚比特币也属于Craig Wright。所以他至少丢失了114956枚比特币。
 
-现在的情况是：Craig Wright 有RAR文件和wallet.dat文件的密码。黑客有RAR文件（和包含在RAR压缩包里的wallet.dat文件）。
+现在的情况是：Craig Wright 有RAR文件的密码和wallet.dat文件的密码。黑客有RAR文件（和包含在RAR压缩包里的wallet.dat文件）。
 
 黑客如果要动用比特币，需要先破解RAR压缩包的密码，然后破解wallet.dat的密码，截止到目前，因为比特币没有被移动，所以可以确定黑客还没有完全破解这两道密码。
 
