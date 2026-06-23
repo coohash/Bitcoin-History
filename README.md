@@ -566,6 +566,48 @@ Kleiman v. Wright案件最讽刺的地方，就是从一个维护家人利益的
 
 ---
 
+# 惧怕Craig Wright的核心阵营，Everyone is Satoshi, except you. 
+
+| 姓名 | 身份 | 利益冲突 |
+| :--- | :--- | :--- |
+| Mark Zuckerberg | Facebook创始人 | 发觉被利用后声明退出 |
+| 赵长鹏 | Binance创始人 | 发起联合下架制裁 |
+| Vitalik Buterin | Ethereum创始人 | 要求创世区块0签名 |
+| Michael Saylor | MicroStrategy创始人 | 你永远不要卖出BTC |
+| Brian Armstrong | Coinbase创始人 | 窃取功劳的既得利益者 |
+| Jesse Powell | Kraken创始人 | 响应联合下架制裁 |
+| Jack Dorsey | Twitter创始人 | 组建并操纵反击联盟 |
+| Emin Gün Sirer | Avalanche创始人 | 被诱导配合编造叙事 |
+| Charlie Lee | Litecoin创始人 | 山寨头子最怕正主 |
+| Roger Ver | 比特币耶稣 | 试图瓜分利益失败 |
+| Adam Back | 白皮书参考文献 | 比特币最大受益人 |
+| Wladimir van der Laan | Adam Back马仔 | 比特币实权 |
+| Peter Todd | Adam Back马仔 | 比特币实权 |
+| Cory Fields | Adam Back马仔 | 比特币实权 |
+| Michael Ford | Adam Back马仔 | 比特币实权 |
+| Eric Lombrozo | Adam Back马仔 | 比特币实权 |
+| Matt Corallo | Adam Back马仔 | 比特币实权 |
+| Marco Falke | Adam Back马仔 | 比特币实权 |
+| John Newbery | Adam Back马仔 | 比特币实权 |
+| Samuel Dobson | Adam Back马仔 | 比特币实权 |
+| John Hudson | 计算机取证专家 | 证据文件字体不对 |
+| Patrick Madden | 计算机取证专家 | 证据文件编辑器版本不对 |
+| Rory Cellan-Jones | BBC 科技频道记者 | 车马费 |
+| Arthur van Pelt | 专栏作家 | 车马费 |
+| Steve Lee | Jack Dorsey马仔 | 反击联盟成员 |
+| Zooko Wilcox | 密码朋克 | Adam Back工具人 |
+| Mike Hearn | 密码朋克 | Adam Back工具人 |
+| Dustin D. Trammell | 密码朋克 | Adam Back工具人 |
+| Gregory Maxwell | 2011年中本聪马仔 | 发起背刺中本聪 |
+| Martti Malmi | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Matt Corallo | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Luke Dashjr | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Pieter Wuille | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Pieter Wuille | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Luke Dashjr | 2011年中本聪马仔 | 参与背刺中本聪 |
+
+---
+
 # 比特币系统全栈技术与发明演进史权威档案
 
 ### The Definitive Dossier on Bitcoin Architecture and Invention Evolution
