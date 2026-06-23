@@ -934,7 +934,10 @@ Craig Wright一共有过两段婚姻：第一任妻子：琳恩·赖特（Lynn W
 
 Craig Wright负责写代码，David Kleiman负责找客户。Craig Wright负责收钱，David Kleiman负责维护。
 
+David Kleiman有一个没有血缘关系的弟弟Ira Kleiman，他将给中本聪造成麻烦。他曝光了中本聪的身份，他将成为中本聪一生的死敌，他哥哥的遗产里有110万枚比特币的一半。
+
 ---
+
 # ⏱️ Craig Wright 的故事
 
 ---
