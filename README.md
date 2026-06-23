@@ -560,9 +560,9 @@ Kleiman v. Wright案件最讽刺的地方，就是从一个维护家人利益的
 | 未提供 | University of Southern Queensland<br>(南昆士兰大学) | Bachelor of Science - BS in Mathematics<br>(理学学士 - 数学) |
 | 未提供 | University of Wales Trinity Saint David<br>(威尔士大学三一圣大卫学院) | Master of Arts - MA in Classical, Ancient Mediterranean and Near Eastern Studies and Archaeology<br>(文学硕士 - 古典、古代地中海与近东研究及考古学) |
 | 未提供 | Walden University<br>(瓦尔登大学) | Doctor's Degree DBA - Doctor of Business Administration<br>(博士学位 DBA - 工商管理博士) |
-| 未提供 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - Malware (GSE-MALWARE)<br>(GIAC安全专家 - 恶意软件) |
-| 未提供 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - COMPLIANCE (GSE-COMPLIANCE)<br>(GIAC安全专家 - 合规) |
-| 未提供 | SANS (GIAC)<br>(SANS / GIAC机构) | GIAC Security Expert (GSE)<br>(GIAC最高安全专家认证) |
+| 2008 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - Malware (GSE-MALWARE)<br>(GIAC安全专家 - 恶意软件) |
+| 2008 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - COMPLIANCE (GSE-COMPLIANCE)<br>(GIAC安全专家 - 合规) |
+| 2008 | SANS (GIAC)<br>(SANS / GIAC机构) | GIAC Security Expert (GSE)<br>(GIAC最高安全专家认证) |
 
 ---
 
