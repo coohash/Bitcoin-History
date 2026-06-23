@@ -530,6 +530,46 @@ Kleiman v. Wright案件最讽刺的地方，就是从一个维护家人利益的
 
 ---
 
+# Craig Wright教育背景 (Education)
+
+| 时间 (Time) | 大学 (University) | 学位 (Degree) |
+| :--- | :--- | :--- |
+| 2020 - 2023 | Harvard University<br>(哈佛大学) | Master of Arts - MA in Asian History<br>(文学硕士 - 亚洲历史) |
+| 2021 - 2023 | Grand Canyon University<br>(大峡谷大学) | DBA in Qualitative studies (GPA: 3.8)<br>(工商管理博士 - 定性研究，GPA: 3.8) |
+| 2018 - 2022 | University of Leicester<br>(莱斯特大学) | Doctor of Philosophy - PhD in Law<br>(哲学博士 - 法律) |
+| 2020 - 2022 | Brunel University London<br>(伦敦布鲁内尔大学) | Master of Arts - MA in Educational Leadership and Administration, General<br>(文学硕士 - 普通教育领导与行政管理) |
+| 2020 - 2022 | The Open University<br>(英国开放大学) | Master of Arts - MA in English Literature (British and Commonwealth)<br>(文学硕士 - 英国与英联邦文学) |
+| 2020 - 2022 | Birkbeck, University of London<br>(伦敦大学伯贝克学院) | Master of Arts - MA in Philosophy (Philosophy of time)<br>(文学硕士 - 哲学 [时间哲学方向]) |
+| 2021 - 2022 | Liberty University<br>(自由大学) | Master of Science - MS in Criminal Justice / Forensic Psychology (GPA: 3.9)<br>(理学硕士 - 刑事司法 / 司法心理学，GPA: 3.9) |
+| 2020 - 2021 | University of Colorado Boulder<br>(科罗拉多大学博尔德分校) | Postgraduate Degree / PG Certificate - Battery Pack Balancing and Power Estimation<br>(研究生学位/研究生证书 - 电池组均衡与功率估计) |
+| 2020 - 2021 | Liberty University<br>(自由大学) | Master of Science - MS in Political Science and Government (GPA: 3.85)<br>(理学硕士 - 政治学与政府，GPA: 3.85) |
+| 2015 - 2020 | University of London<br>(伦敦大学) | Master of Science in Finance (Quantitative Finance), Econometrics and Quantitative Economics<br>(金融学理学硕士 [数量金融]，计量经济学与数量经济学) |
+| 2008 - 2014 | Charles Sturt University<br>(查尔斯斯特大学) | Doctor of Philosophy - PhD in Computer Science / Economics<br>(哲学博士 - 计算机科学 / 经济学)<br>*(注：论文探讨信息安全风险的定量与博弈论建模)* |
+| 2010 - 2012 | SANS Technology Institute<br>(SANS技术研究所) | Master's degree in Information Security Engineering<br>(硕士学位 - 信息安全工程) |
+| 2009 - 2012 | SANS Technology Institute<br>(SANS技术研究所) | Master's degree in Engineering Management<br>(硕士学位 - 工程管理) |
+| 2006 - 2009 | Charles Sturt University<br>(查尔斯斯特大学) | Master's degree - Master of Information Systems Security<br>(硕士学位 - 信息系统安全硕士) |
+| 2006 - 2009 | University of Newcastle<br>(纽卡斯尔大学) | Master of Statistics in Mathematics and Statistics<br>(统计学硕士 - 数学与统计学)<br>*(注：论文研究组内方差齐性检验的效能)* |
+| 2005 - 2008 | Northumbria University<br>(诺森比亚大学) | Master of Laws - LLM in International Business/Trade/Commerce (Commendation)<br>(法学硕士 - 国际商务/贸易/商业 [优良/嘉奖])<br>*(注：论文探讨互联网中介机构的法律责任)* |
+| 2004 - 2006 | Charles Sturt University<br>(查尔斯斯特大学) | Master's degree - Master of Management (Information Technology)<br>(硕士学位 - 管理学硕士 [信息技术]) |
+| 2003 - 2005 | Charles Sturt University<br>(查尔斯斯特大学) | Master of Networking and Systems Administration in Computer Systems Networking and Telecommunications<br>(网络与系统管理硕士 - 计算机系统网络与电信) |
+| 未提供 | Arden University<br>(雅顿大学) | Master of Science - MS in Psychology<br>(理学硕士 - 心理学) |
+| 未提供 | Geneva Business School<br>(日内瓦商学院) | Doctor's Degree DBA - Doctor of Business Administration<br>(博士学位 DBA - 工商管理博士) |
+| 未提供 | Higher School of Economics<br>(俄罗斯高等经济大学) | Master's degree in Data Science<br>(硕士学位 - 数据科学) |
+| 未提供 | Kenya (Institution not specified)<br>(肯尼亚相关机构) | Doctor's Degree in Theology / Theological Studies<br>(博士学位 - 神学 / 神学研究) |
+| 未提供 | The Open University<br>(英国开放大学) | Master of Science - MS in Mathematics<br>(理学硕士 - 数学) |
+| 未提供 | University of Birmingham<br>(伯明翰大学) | Master of Arts - MA in Medieval and Renaissance Studies<br>(文学硕士 - 中世纪与文艺复兴研究) |
+| 未提供 | University of Exeter<br>(埃克塞特大学) | Doctor of Philosophy - PhD in Computational and Applied Mathematics / Economics<br>(哲学博士 - 计算与应用数学 / 经济学) |
+| 未提供 | University of London<br>(伦敦大学) | Master of Science - MS in Logistics and Supply Chain<br>(理学硕士 - 物流与供应链) |
+| 未提供 | University of Southern Queensland<br>(南昆士兰大学) | Bachelor of Arts - BA in English Language and Literature / Letters<br>(文学学士 - 英语语言与文学 / 文学) |
+| 未提供 | University of Southern Queensland<br>(南昆士兰大学) | Bachelor of Science - BS in Mathematics<br>(理学学士 - 数学) |
+| 未提供 | University of Wales Trinity Saint David<br>(威尔士大学三一圣大卫学院) | Master of Arts - MA in Classical, Ancient Mediterranean and Near Eastern Studies and Archaeology<br>(文学硕士 - 古典、古代地中海与近东研究及考古学) |
+| 未提供 | Walden University<br>(瓦尔登大学) | Doctor's Degree DBA - Doctor of Business Administration<br>(博士学位 DBA - 工商管理博士) |
+| 未提供 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - Malware (GSE-MALWARE)<br>(GIAC安全专家 - 恶意软件) |
+| 未提供 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - COMPLIANCE (GSE-COMPLIANCE)<br>(GIAC安全专家 - 合规) |
+| 未提供 | SANS (GIAC)<br>(SANS / GIAC机构) | GIAC Security Expert (GSE)<br>(GIAC最高安全专家认证) |
+
+---
+
 # 比特币系统全栈技术与发明演进史权威档案
 
 ### The Definitive Dossier on Bitcoin Architecture and Invention Evolution
