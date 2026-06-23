@@ -69,7 +69,7 @@
 * **基准**：版本号（nVersion）、时间戳（nTime）、随机数（nNonce）、Merkle根（hashMerkleRoot）
 * **丰碑**：1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa (这是比特币的创世地址，由代码中硬编码的公钥ParseHex("04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") 唯一锁定。无论谁在何处运行这段创世代码：生成的地址永远是这一个。这是比特币永恒的纪念碑) 
 
-这些参数都是在代码中被预先定义好的硬编码。这意味着中本聪在运行程序之前，已经通过数学逻辑设计好了这个“开端”。那是比特币最初的模样：一个平庸、低调、甚至有些简陋的 Windows 窗口，它不像是一个颠覆世界的工具，更像是一颗在午夜时分被悄悄埋入泥土、等待掀起风暴的无名种子。
+这些参数都是在代码中被预先定义好的硬编码。这意味着中本聪在运行程序之前，已经通过数学逻辑设计好了这个“开端”。那是比特币最初的模样：一个平庸、低调、甚至有些简陋的 Windows 窗口，它不像是一个颠覆世界的工具，更像是一颗在午夜时分被悄悄埋入泥土、等待掀起风暴的无名种子。比特币的本质是，第0.1版一经发布，其核心设计即已固定，并在整个生命周期中保持不变。（The nature of Bitcoin is such that once version 0.1 was released,the core design was set in stone for the rest of its lifetime.--Satoshi Nakamoto）
 
 2009 年 1 月 3 日，人类历史上第一台去中心化支付永动机，在这个 Windows 视窗里，完成了第一次点火。在创世区块诞生的那一刻，世界上只有一个节点，即中本聪的那台电脑。他既是唯一的矿工，也是唯一的网络维护者。火光微弱，但这束光通过 TCP/IP 协议点亮了世界的黑暗面。谁也未曾料到，这个初生的算法引擎，不久后将裹挟着全球的数字算力滚滚向前，最终将吞噬掉人类 0.5% 的电力。
 
@@ -979,7 +979,7 @@ Craig Wright曾提及，如果能找回 Dave Kleiman 曾经存放的遗物（如
 
 Dave Kleiman 是一位美国计算机取证专家，他因车祸长期坐轮椅，生前有一个几乎从不离身的U盘，铝制/钛合金外壳。（外界推测为Corsair 生产的军工级三防 U 盘）
 
-2013年 4 月 26 日，46岁的Dave Kleiman于家中去世，他的同事 Patrick Paige 协助整理了遗物，一枚铝制外壳的 U 盘，连同他的所有电脑和手机，一起被正式移交给了 Ira Kleiman。（Dave Kleiman 未婚且无子女。他养父是所有遗产继承人。）
+2013年 4 月 26 日，46岁的Dave Kleiman于家中去世，他的同事 Patrick Paige 协助整理了遗物，一枚铝制外壳的 U 盘，连同他的所有电脑和手机，一起被正式移交给了 Ira Kleiman。（Dave Kleiman 未婚且无子女。他养父是所有遗产继承人。养父让亲儿子 Ira Kleiman处理遗产。 Ira Kleiman 和 David Kleiman 没有血缘关系。）
 
 2013年5月2日，Craig Wright发表文章《Today's manifesto...》表达对Dave Kleiman的怀念。另一方面，Craig也在生Dave的气，因为Dave没有告诉他自己的健康状况有多糟糕。
 
