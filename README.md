@@ -903,7 +903,7 @@ Craig Steven Wright出生于1970 年 10 月。他的父亲名叫Frederick Wright
 
 2007-2010年，为了运营比特币，互联网连接的费用、服务器费用、微软软件的许可费用，以及电力费用加起来花费了Craig Wright大约 110 万澳元。2007 年到 2009 年中期这段时间里，Craig的支出中，有大约 70%的费用与比特币相关。他所拥有的三处房产抵押贷款达到了大约 140 万澳元。这导致他后来出售了农村。
 
-2011 年 2 月，Craig Wright和Dave Kleiman成立了 W&K Info Defense Research LLC 公司。“郁金香信托（Tulip Trust）正式诞生。
+2011 年 2 月，Craig Wright和Dave Kleiman成立了 W&K Info Defense Research LLC 公司。“郁金香信托（Tulip Trust）正式诞生。此时Craig Wright的资金非常紧张，无力继续支付律师、审计师和会计师的费用。正因如此，他开始将部分资产重新投入到郁金香信托。他绝不会让几个无知的人阻碍他正在努力打造的事业。
 
 2012 - 2013年，Craig Wright同时在查尔斯·斯图尔特大学攻读计算机科学博士学位和硕士学位。这将是他在该校获得的第四个硕士学位。
 
@@ -918,6 +918,21 @@ Craig Wright一共有过两段婚姻：第一任妻子：琳恩·赖特（Lynn W
 
 <sub>📢文章二：Gizmodo《This Australian Says He and His Dead Friend Invented Bitcoin》作者： Sam Biddle & Andy Cush。记者收到了一封匿名邮件：“我黑了中本聪，这些文件都来自他的商业账户，他的真名是 Craig Wright 博士。”这篇文章深入调查了Dave Kleiman，文章甚至还原了 Dave 在佛罗里达家中孤独离世时极其凄凉、混杂着酒瓶与手枪的犯罪现场痕迹。文章详细披露了郁金香信托里面锁着 1,100,111 个比特币。报道最震撼的部分是直接贴出了 Wright 与澳大利亚税务局（ATO）官员的谈话速记。在速记中，Wright 亲口对税务官员说：“我自 2009 年以来就一直在运行比特币……我尽了最大努力向人们隐瞒这一事实。”</sub>
 
+
+## 🎭 中本聪的唯一战友，David Kleiman
+
+
+2008 年 12 月，在《计算机科学讲义》中有一篇论文标题为《重写硬盘数据：关于擦除的巨大争议》，作者为Craig Wright和David Kleiman。这是Craig Wright 和 Dave Kleiman 在比特币诞生前夕确实有过技术合作的真正纽带。
+
+他们的合作不止于论文层面，Craig Wright擅长的两件事是开发游戏软件和编写底层代码。他熟悉 C 语言，但更精通 MASM、Forth 和其他底层系统。他从事的工作之一是开发游戏软件。其中很多都是为像澳大利亚的Lasseters Online Casino这样的持牌赌场开发的。Craig Wright也为Playboy Gaming打造一个规模庞大的国际在线赌场。因此他当时手里积攒了一大堆在线赌场的软件。那时在线赌博还处于早期阶段。那时候，这些软件，尤其是在线赌场软件可是价值连城。
+
+为了卖掉这些赌场软件，Craig Wright找了David Kleiman，因为美国政府在打击网络赌博，David在计算机取证公司工作，能获得潜在客户信息。他们就是全球在线赌博软件的鼻祖，软件被卖往世界各地，这些代码在哥斯达黎加、巴拿马等国家属于非法销售。但在澳大利亚属于合法。这导致卖代码David Kleiman要承担最大的风险，因为Craig可以合法的拿到钱，但David 赚到的钱无法合法地汇回美国。
+
+卖软件是2008年-2011年期间，Craig Wright的主要收入，他也支持了比特币服务器、带宽、电费等上百万澳元的投入。David在2011 年时就已经生病了，但一直在坚持维护客户（软件卖掉后需要长期维护）。
+
+为了扩大收入，Craig Wright还开发了各种漏洞利用程序、隐蔽信道软件，以及逆向分析软件，他们使用 Liberty Reserve 来进行资金存储和支付相关费用。此时的中本聪，是一名卖在线赌博软件的老板，是开发后门钥匙，木马间谍软件，各种破解外挂的黑客。
+
+Craig Wright负责写代码，David Kleiman负责找客户。Craig Wright负责收钱，David Kleiman负责维护。
 
 ---
 # ⏱️ Craig Wright 的故事
