@@ -108,7 +108,7 @@ MS09-001 补丁微软的发布时间是2009 年 1 月 13 日，微软在1 月 8 
 
 ---
 
-从2019年1月比特币发布，到2010年6月的一年半时间里。比特币进入了长达18个月的荒芜期，这台“永动机”仿佛被世界遗忘在了角落，冷清得就像荒野深处的一盏孤灯，只有中本聪和极少数盗火者围坐在这微弱的光芒前，默默添柴。2009年的头几个月，链上世界一片死寂，除中本聪与Hal Finney第一次转账，以及Dustin Trammell、和Mike Hearn两次测试。几乎没有其它的链上转账。参加挖矿的人也集中在小圈子里。但2009年中本聪并没有闲着，这期间他尝试向微软出售技术，与澳大利亚政府和税务部门进行多次沟通和提案，解释如何利用不可篡改的账本以及基于CAATs（即计算机辅助审计技术）的软件来取代基层审计人员，是的，此时中本聪想把比特币相关技术卖给政府部门，取代基层审核工作量。
+从2019年1月比特币发布，到2010年6月的一年半时间里。比特币进入了长达18个月的荒芜期，这台“永动机”仿佛被世界遗忘在了角落，冷清得就像荒野深处的一盏孤灯，只有中本聪和极少数盗火者围坐在这微弱的光芒前，默默添柴。2009年的头几个月，链上世界一片死寂，除中本聪与Hal Finney第一次转账，以及Dustin Trammell、和Mike Hearn两次测试。几乎没有其它的链上转账。参加挖矿的人也集中在小圈子里。但2009年中本聪并没有闲着，这期间他尝试向微软出售技术，与澳大利亚政府和税务部门进行多次沟通和提案，解释如何利用不可篡改的账本以及基于CAATs（即计算机辅助审计技术）的软件来取代基层审计人员。是的，此时中本聪想把比特币相关技术卖掉。
 
 直到2010年6月，中本聪卖出技术的提案正式被微软等拒绝，他开始对自己的项目失去信心。他一直力推基于比特币的商业应用。一直宣传比特币的微支付功能，他希望被电商网站采用。然而，人们开发的第一个应用竟然是一个海洛因商店（The Farmers Market）。至此，死水微澜的湖面被彻底打破，比特币迎来了新生。海洛因商店的出现，让比特币开始在链上有了转账记录。转账的目的也很明确，比特币的时间戳记录着每一笔交易，对比特币的依赖帮助用户保护了自己的身份， 但最终留下了可追踪的账本。2010年6月29日，为了让转账数量放大，Gavin Andresen搭建了一个“比特币水龙头（Bitcoin Faucet）”网站。没有任何门槛，任何人都能领走5枚比特币！Gavin将自己持有的1100枚比特币悉数注入。中本聪也分批次转入了上万枚。这个近乎荒谬的散财神迹，犹如一颗深水炸弹。无数猎奇者的目光和流量开始涌入，原本静止的共识齿轮被彻底激活。在水龙头的无私浇灌下，比特币终于走出了孤寂的极夜，轰轰烈烈地开启了颠覆世界的新故事。
 
@@ -564,47 +564,7 @@ Kleiman v. Wright案件最讽刺的地方，就是从一个维护家人利益的
 | 2008 | SANS Technology Institute<br>(SANS技术研究所) | GIAC Security Expert - COMPLIANCE (GSE-COMPLIANCE)<br>(GIAC安全专家 - 合规) |
 | 2008 | SANS (GIAC)<br>(SANS / GIAC机构) | GIAC Security Expert (GSE)<br>(GIAC最高安全专家认证) |
 
----
 
-# 惧怕Craig Wright的核心阵营，Everyone is Satoshi, except you. 
-
-| 姓名 | 身份 | 利益冲突 |
-| :--- | :--- | :--- |
-| Mark Zuckerberg | Facebook创始人 | 发觉被利用后声明退出 |
-| 赵长鹏 | Binance创始人 | 发起联合下架制裁 |
-| Vitalik Buterin | Ethereum创始人 | 要求创世区块0签名 |
-| Michael Saylor | MicroStrategy创始人 | 你永远不要卖出BTC |
-| Brian Armstrong | Coinbase创始人 | 窃取功劳的既得利益者 |
-| Jesse Powell | Kraken创始人 | 响应联合下架制裁 |
-| Jack Dorsey | Twitter创始人 | 组建并操纵反击联盟 |
-| Emin Gün Sirer | Avalanche创始人 | 被诱导配合编造叙事 |
-| Charlie Lee | Litecoin创始人 | 山寨头子最怕正主 |
-| Roger Ver | 比特币耶稣 | 试图瓜分利益失败 |
-| Adam Back | 白皮书参考文献 | 比特币最大受益人 |
-| Wladimir van der Laan | Adam Back马仔 | 比特币实权 |
-| Peter Todd | Adam Back马仔 | 比特币实权 |
-| Cory Fields | Adam Back马仔 | 比特币实权 |
-| Michael Ford | Adam Back马仔 | 比特币实权 |
-| Eric Lombrozo | Adam Back马仔 | 比特币实权 |
-| Matt Corallo | Adam Back马仔 | 比特币实权 |
-| Marco Falke | Adam Back马仔 | 比特币实权 |
-| John Newbery | Adam Back马仔 | 比特币实权 |
-| Samuel Dobson | Adam Back马仔 | 比特币实权 |
-| John Hudson | 计算机取证专家 | 证据文件字体不对 |
-| Patrick Madden | 计算机取证专家 | 证据文件编辑器版本不对 |
-| Rory Cellan-Jones | BBC 科技频道记者 | 车马费 |
-| Arthur van Pelt | 专栏作家 | 车马费 |
-| Steve Lee | Jack Dorsey马仔 | 反击联盟成员 |
-| Zooko Wilcox | 密码朋克 | Adam Back工具人 |
-| Mike Hearn | 密码朋克 | Adam Back工具人 |
-| Dustin D. Trammell | 密码朋克 | Adam Back工具人 |
-| Gregory Maxwell | 2011年中本聪马仔 | 发起背刺中本聪 |
-| Martti Malmi | 2011年中本聪马仔 | 参与背刺中本聪 |
-| Matt Corallo | 2011年中本聪马仔 | 参与背刺中本聪 |
-| Luke Dashjr | 2011年中本聪马仔 | 参与背刺中本聪 |
-| Pieter Wuille | 2011年中本聪马仔 | 参与背刺中本聪 |
-| Pieter Wuille | 2011年中本聪马仔 | 参与背刺中本聪 |
-| Luke Dashjr | 2011年中本聪马仔 | 参与背刺中本聪 |
 
 ---
 
@@ -1115,6 +1075,48 @@ Kleiman v. Wright案件最讽刺的地方，就是从一个维护家人利益的
 中本聪的伟大，绝不在于他发明了某种全新的底层密码学算法。比特币实际上几乎没有用到任何前沿/复杂密码学技术，比特币不使用零知识证明，不使用盲签名，不使用同态加密，也不使用群签名、环签名，或者任何在2008年之前就已经出现在文献中的更高级的加密原语。中本聪将三种广泛可用的密码学构建模块（ECC密钥、ECDSA签名、SHA-256哈希算法）组合在一起，并将其整合到一条共识规则中。如果把比特币拆解，它的每一个底层密码学和网络组件（P2P、公钥加密、椭圆曲线、默克尔树、时间戳、POW、哈希算法、可编程合约、拜占庭容错、数字现金理论）都是前人现成的发明。
 
 中本聪的真正身份，是一位**无与伦比的顶级系统架构师与天才的经济学家**。他以极具前瞻性的工程手腕，创造了（挖矿、UTXO 账本、减半激励、最长链共识、区块头、SPV、内存池、地址格式、非图灵完备、自适应难度调整、钱包原型），并将前人的技术组件当做齿轮精准地咬合在一起。他用自私的人性作为燃料，用严苛的密码学作为边界，让比特币系统彻底摆脱了中心化人类实体的组织和干预，走向了永恒的自驱动进化。这一工程闭环，在过去的十几年乃至更长的未来里，无懈可击。
+
+---
+
+# 惧怕Craig Wright的核心阵营，Everyone is Satoshi, except you. 
+
+| 姓名 | 身份 | 利益冲突 |
+| :--- | :--- | :--- |
+| Mark Zuckerberg | Facebook创始人 | 发觉被利用后声明退出 |
+| 赵长鹏 | Binance创始人 | 发起联合下架制裁 |
+| Vitalik Buterin | Ethereum创始人 | 要求创世区块0签名 |
+| Michael Saylor | MicroStrategy创始人 | 你永远不要卖出BTC |
+| Brian Armstrong | Coinbase创始人 | 窃取功劳的既得利益者 |
+| Jesse Powell | Kraken创始人 | 响应联合下架制裁 |
+| Jack Dorsey | Twitter创始人 | 组建并操纵反击联盟 |
+| Emin Gün Sirer | Avalanche创始人 | 被诱导配合编造叙事 |
+| Charlie Lee | Litecoin创始人 | 山寨头子最怕正主 |
+| Roger Ver | 比特币耶稣 | 试图瓜分利益失败 |
+| Adam Back | 白皮书参考文献 | 比特币最大受益人 |
+| Wladimir van der Laan | Adam Back马仔 | 比特币实权 |
+| Peter Todd | Adam Back马仔 | 比特币实权 |
+| Cory Fields | Adam Back马仔 | 比特币实权 |
+| Michael Ford | Adam Back马仔 | 比特币实权 |
+| Eric Lombrozo | Adam Back马仔 | 比特币实权 |
+| Matt Corallo | Adam Back马仔 | 比特币实权 |
+| Marco Falke | Adam Back马仔 | 比特币实权 |
+| John Newbery | Adam Back马仔 | 比特币实权 |
+| Samuel Dobson | Adam Back马仔 | 比特币实权 |
+| John Hudson | 计算机取证专家 | 证据文件字体不对 |
+| Patrick Madden | 计算机取证专家 | 证据文件编辑器版本不对 |
+| Rory Cellan-Jones | BBC 科技频道记者 | 车马费 |
+| Arthur van Pelt | 专栏作家 | 车马费 |
+| Steve Lee | Jack Dorsey马仔 | 反击联盟成员 |
+| Zooko Wilcox | 密码朋克 | Adam Back工具人 |
+| Mike Hearn | 密码朋克 | Adam Back工具人 |
+| Dustin D. Trammell | 密码朋克 | Adam Back工具人 |
+| Gregory Maxwell | 2011年中本聪马仔 | 发起背刺中本聪 |
+| Martti Malmi | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Matt Corallo | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Luke Dashjr | 2011年中本聪马仔 | 参与背刺中本聪 |
+| Pieter Wuille | 2011年中本聪马仔 | 参与背刺中本聪 |
+
+受益越多的人，下手越狠。
 
 ---
 <sub>【阅读须知】本文是关于中本聪与比特币历史的真实记录，将持续完善。它终将被时间证明其价值，并注定结集出版。本文重点探究2011年中本聪隐退前后的历史。中本聪离场后，后继的马仔们将比特币进行了数十次分叉，各种利益博弈与乱象纷至沓来。唯有确证中本聪的真实身份，方能确定正统的比特币。文中出现的每一个数字、时间、人物与机构，全部有据可查，无一处虚构。若对内容来源存疑，请自行交叉检索。愿数学与真相与你同在。</sub>
