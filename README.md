@@ -355,7 +355,9 @@ Craig Wright博士共获得了22所大学的30个学位，其中博士级别6个
 
 <sub>📢文章一：WIRED《This Unknown Australian Genius Seldom Speaks But He Might Be Bitcoin's Creator》作者： Andy Greenberg & Gwern Branwen。文章详细梳理了 Craig Wright 已经删除的个人博客。指出他在 2008 年 8 月（中本聪白皮书发布前三个月）曾发帖称计划发布一篇“加密货币论文”；并在 2008 年 11 月要求读者使用一个特定的 PGP 公钥与他联系，而该公钥在后来的数据库中被发现就是中本聪的。另外还曝光了一份清算报告，显示 Craig Wright 曾使用价值高达 2300万美元的比特币 来注资他旗下的 Hotwire 公司。</sub><br/>
 
-<sub>📢文章二：Gizmodo《This Australian Says He and His Dead Friend Invented Bitcoin》作者： Sam Biddle & Andy Cush。记者收到了一封匿名邮件：“我黑了中本聪，这些文件都来自他的商业账户，他的真名是 Craig Wright 博士。”这篇文章深入调查了David Kleiman，文章甚至还原了 David 在佛罗里达家中孤独离世时极其凄凉、混杂着酒瓶与手枪的犯罪现场痕迹。文章详细披露了郁金香信托里面锁着 1,100,111 个比特币。报道最震撼的部分是直接贴出了 Wright 与澳大利亚税务局（ATO）官员的谈话速记。在速记中，Wright 亲口对税务官员说：“我自 2009 年以来就一直在运行比特币……我尽了最大努力向人们隐瞒这一事实。”</sub>
+<sub>📢文章二：Gizmodo《This Australian Says He and His Dead Friend Invented Bitcoin》作者： Sam Biddle & Andy Cush。记者收到了一封匿名邮件：“我黑了中本聪，这些文件都来自他的商业账户，他的真名是 Craig Wright 博士。”这篇文章深入调查了David Kleiman，文章甚至还原了 David 在佛罗里达家中孤独离世时极其凄凉、混杂着酒瓶与手枪的犯罪现场痕迹。文章详细披露了郁金香信托里面锁着 1,100,111 个比特币。报道最震撼的部分是直接贴出了 Wright 与澳大利亚税务局（ATO）官员的谈话速记。在速记中，Wright 亲口对税务官员说：“我自 2009 年以来就一直在运行比特币……我尽了最大努力向人们隐瞒这一事实。”</sub><br/>
+
+<sub>Craig Wright自 2002/2003 年以来，他一直使用 Rocks Linux（一种专为构建高性能计算集群而设计的开源发行版）作为基础系统。集群是由一组紧密协作的计算机组成，使它们看起来像一个单一的系统。Rocks Linux 是一个专门用于构建和管理高性能集群的 Linux 发行版。Rocks Linux 的一个关键特性是它能够将多个物理服务器的资源聚合到一个统一的虚拟化环境中。集群系统用于托管一系列虚拟机，这些虚拟机本质上是在单个物理机上运行的独立计算机，每台计算机都有自己的操作系统和应用程序。为此，Craig Wright使用了 VMware 和 Xen 虚拟机管理程序，后者是“管理虚拟机创建和运行的进程”除了使用虚拟机外，还使用 Citrix 远程访问服务器。Citrix 是一款使用户能够通过计算机虚拟化技术从远程位置工作的软件。他将存储区域网络 (SAN) 系统与 Citrix 结合使用，这些系统“在处理大量数据方面提供了高性能和灵活性，并且网络中的各种用户可以访问这些数据”</sub>
 
 
 ## 🎭 中本聪的唯一战友，David Kleiman
