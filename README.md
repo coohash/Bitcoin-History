@@ -317,7 +317,7 @@ Craig Steven Wright出生于1970年10月。他的父亲名叫Frederick Wright，
 
 2013年，克Craig Wright的真实形象是一个：在澳大利亚网络安全圈颇有名气、手握十几张名校硕士文凭和顶级安全证书、热衷于创办科技企业的高级IT咨询顾问。
 
-Craig Wright一共有过两段婚姻：第一任妻子：琳恩·赖特（Lynn Wright），两人在1996年结婚，他们通过一个网络约会平台认识，当时Craig 26岁，Lynn 44岁。2010年10月两人正式离婚。在婚姻结束之前，他们之间经历了一些矛盾和冲突，他们生育有一个孩子。第二任妻子（现任）：拉莫娜·瓦茨（Ramona Watts），两人约于2012年左右结婚，育有两个小孩。
+Craig Wright一共有过两段婚姻：第一任妻子：琳恩·赖特（Lynn Wright），两人在1996年结婚，他们通过一个网络约会平台认识，当时Craig 26岁，Lynn 44岁。1999年，两人的第一个孩子出生，是个男孩。2010年10月两人正式离婚。在婚姻结束之前，他们之间经历了一些矛盾和冲突。第二任妻子（现任）：拉莫娜·瓦茨（Ramona Watts），两人约于2012年左右结婚，育有两个小孩。
 
 2015年7月，Craig Wright辞去Cloudcroft Pty Ltd、Coin-Exch Pty Ltd、Daso Pty Ltd、Demorgan Holdings Pty Ltd、Demorgan Ltd、Denariuz、Ezas Pty Ltd、Integyrz Pty Ltd、Misfit Games Pty Ltd、Interconnected Research Pty Ltd、Zuhl Pty Ltd和Pholus Pty Ltd，这12家公司的董事职务。这些公司在Craig Wright移居英国后，因涉及极其复杂的私人纠纷和税务调查，现在通过ASIC Connect 系统查询多为“关联实体”或“破产公司”。
 
