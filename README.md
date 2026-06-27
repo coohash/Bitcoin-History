@@ -230,11 +230,17 @@ Lerner 的结论经过多年完善。几乎可以肯定的是，中本聪（Pato
 
 ## 🏁 新的开发者要求Gavin Andresen 分享权利
 
-2011年，Gavin Andresen获得了中本聪转移的最高权限，另外加入比特币开发的还有四位开发人员：Matt Corallo、Luke Dashjr、Pieter Wuille 和 Gregory Maxwell。
+2011年，Gavin Andresen获得了中本聪转移的最高权限，另外加入比特币社区的还有：Martti Malmi、Wladimir van der Laan、Matt Corallo、Luke Dashjr、Pieter Wuille 和 Gregory Maxwell。新一代的开发者开始做出一些中本聪不会认同的决定，他们开始成为反对中本聪的最强力量。
 
 在比特币诞生的头两年，其源代码托管在 SourceForge 上，采用几乎完全由中本聪一人独断的治理结构。补丁通过电子邮件提交，由中本聪审核，并由中本聪决定合并或拒绝。当时没有拉取请求流程，也没有公开的评论区。整个模式就是邮件审批。独裁的权限被移交给Gavin Andresen后，开发者们要求Gavin分享权利，以后咱们投票决定。Gavin同意了。
 
-2011 年年中，该项目迁移到了 GitHub。 分布式提交权限取代了单一审批人。对每一项代码更改的公开评论取代了私密的电子邮件讨论。至此，比特币完成了彻底的去中本聪化。而新一代的这4个开发者开始做出一些中本聪不会认同的决定，他们开始成为反对中本聪的最强力量。
+2008年10月5日，中本聪在 SourceForge 注册了一个账户（即 nakamoto2 账户）。他使用这个账户在 SourceForge 上创建了一个名为“Bitcoin”的项目（SourceForge Bitcoin）。2010年9月，Gavin Andresen 获得了 SourceForge 代码库的提交权限。之后的某个时间，Gavin Andresen又获得了管理权限。2011 年5月，Gavin Andresen在GitHub 上建立了 bitcoin/bitcoin 仓库，随后和Wladimir van der Laan将比特币项目从 SourceForge 迁移到 GitHub。分布式提交权限取代了单一审批人。对每一项代码更改的公开评论取代了私密的电子邮件讨论。至此，比特币完成了彻底的去中本聪化。中本聪失去了比特币代码的管理权限。
+
+2009年11月22日，中本聪采用开源的 SMF 系统搭建了比特币论坛，挂在官方网站 bitcoin.org 根目录下（访问链接为 bitcoin.org/smf/）。随后他任命Martti Malmi为论坛版主。2011年4月他将论坛的管理员权限交给了Martti Malmi。两个月后的2011年6月24日，Martti Malmi自己注册了bitcointalk.org 这个独立域名。随后于2011年7月将官网论坛整体的数据迁移到bitcointalk.org，同时关闭了官方论坛bitcoin.org/smf/。比特币官方论坛被永久关闭。而中本聪对这个新服务器没有任何管理权限。官方论坛的数据库被整体搬过去，上面有中本聪此前一年多时间的发言。但中本聪从来没有用过bitcointalk.org，更没有bitcointalk.org论坛账号。
+
+2026年Martti Malmi在COPA案做证说：“如果中本聪想要权限，他只需要申请即可，中本聪从未申请过此类权限。”
+
+Martti Malmi把官方论坛装入自己口袋，创始人中本聪需要申请！
 
 
 ## ♥️ 指定继承人：Gavin Andresen 被驱逐
