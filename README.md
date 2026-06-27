@@ -641,6 +641,22 @@ Dave Kleiman - http://www.ComputerForensicExaminer.com - http://www.DigitalForen
 
 ## 🔑 自证中本聪，Craig Wright 签名始末：“你永远不会成为Satoshi Nakamoto”
 
+---
+
+2016 年 3 月初，Craig 为 Andrew O'Hagan 进行了两次私钥签名，涉及 1 - 11 区块的私钥。
+
+2016 年 3 月中旬，Craig 为 Jon Matonis 进行一次私钥签名，涉及第1、第9区块私钥。
+
+2016 年 4 月7日，Craig 为 Gavin Andresen 进行三次私钥签名，涉及第1、第2区块私钥。
+
+2016 年 4 月下旬，Craig 为《BBC》Rory Cellan-Jones 进行一次私钥签名， 涉及第9 区块的私钥。
+
+2016 年 4 月下旬，Craig 为《经济学人》 Ludwig Siegele  进行一次私钥签名， 涉及第9 区块的私钥。
+
+2016 年 4 月 29 日，Craig 为《GQ》Stuart McGurk 进行私钥签名时，被Nicolas Courtois搅局，因冲突中断。
+
+---
+
 2015年，Craig Wright向他的朋友兼前同事Stefan Matthews寻求帮助。他和Matthews曾在2000年代初在Centrebet的在线赌场合作。Craig Wright联系他时，Matthews正为亿万富翁赌博大亨Calvin Ayre经营一家风险投资公司。
 
 Craig Wright想出售知识产权，以便支付澳大利亚税务局的罚款。他亮明身份，他其实是Satoshi Nakamoto——比特币的发明者。这几乎是绝杀，Matthews唯命是从。
