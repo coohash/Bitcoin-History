@@ -593,7 +593,7 @@ D8B7 E697 59EF D7FE E84C F51B 4FF1 CFEB C941 FE6D
 
 DE4E FCA3 E1AB 9E41 CE96 CECB 1B0C 9E86 5EC9 48A1
 
-另一个将在Craig Wright不知情的情况下被选定。
+另一把秘钥保管人将在Craig Wright不知情的情况下被选定。
 
 以下条件在任何时候均适用：
 
