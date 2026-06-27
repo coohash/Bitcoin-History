@@ -313,7 +313,7 @@ Craig Steven Wright出生于1970年10月。他的父亲名叫Frederick Wright，
 
 1998 年至 2002 年，DeMorgan 与沃达丰合作开展 IT 安全项目，其中包括部署防火墙系统。
 
-1999年，Craig Wright帮助设计了世界上第一家合法在线赌场Lasseter'sOnline（总部位于澳大利亚北领地爱丽斯泉）的底层架构
+1999年，Craig Wright帮助设计了世界上第一家合法在线赌场Lasseter'sOnline（总部位于澳大利亚北领地爱丽斯泉）的底层架构。赌场老板Lynam表示Craig开发了据他所知是世界上第一个代币系统，该系统能够使用所有法定货币进行全球赌博和网络赌博，“基本上与比特币的功能相同”。Lynam认为 拉塞特赌场 (Lasseters Online / Lasseters Casino) 的系统“是比特币的前身”。
 
 2004年，Craig Wright曾担任BDO Kendalls会计师事务所的信息系统经理，负责数字取证和网络安全防范。他为超过120家澳大利亚和国际私营及政府机构开展过1200多项与信息安全相关的项目。
 
