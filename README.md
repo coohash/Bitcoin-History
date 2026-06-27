@@ -247,7 +247,7 @@ Lerner 的结论经过多年完善。几乎可以肯定的是，中本聪（Pato
 
 第二，Craig 接受了BBC、《经济学人》和《GQ》的采访。 Craig 说了那句人人都记得的话“我不要钱，不要名声，不要崇拜，我只想一个人待着。”
 
-第三，也是重头戏，就是公开早前Craig Wright对Gavin Andresen私下演示私钥签名成功的消息。Gavin Andresen描述了这次会面：Craig在一台笔记本电脑上，用他们验证过的软件签署了一条Gavin选择的信息，具体内容是："Gavin's favorite number is eleven. CSW"，然后将该信息与区块1关联的密钥进行了比对。验证通过了！Craig 持有区块1的私钥。安德烈森在宣誓后解释说，出于谨慎起见，他还打开了一台全新的笔记本电脑，演示了第二次签名，这次签名之前还进行了6个小时沟通。Gavin 还询问了一些2010年时他和中本聪之间私下的事情，Craig Wright也回答对了。会面后Gavin Andresen在媒体面前作了如下陈述：“**我认为 Craig Steven Wright 是比特币的发明者。**”至今还有视频可以确认。
+第三，也是重头戏，就是公开早前4月份时Craig Wright对Gavin Andresen私下演示私钥签名成功的消息。Gavin Andresen描述了这次会面：他们先进行了6个小时的沟通，Gavin 还询问了一些2010年时他和中本聪之间私下的事情。然后Craig在一台笔记本电脑上，用他们验证过的软件签署了一条Gavin选择的信息，具体内容是："Gavin's favorite number is eleven. CSW"，然后将该信息与区块1关联的密钥进行了比对。验证通过了！Craig 持有区块1的私钥。安德烈森在宣誓后解释说，出于谨慎起见，他还打开了一台全新的笔记本电脑，演示了第二次签名，这次签名也成功了。Gavin Andresen在媒体面前作了如下陈述：“**我认为 Craig Steven Wright 是比特币的发明者。**”至今还有视频可以确认。
 
 Gavin Andresen对身份的确认，本应是故事的结尾。
 
