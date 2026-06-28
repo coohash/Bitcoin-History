@@ -415,7 +415,7 @@ David Kleiman出院不到2周就去世了，根据棕榈滩县法医办公室提
 
 David Kleiman出生于1967年，他被棕榈滩花园的Louis和Regina Kleiman收养（Regina Kleiman已去世，Louis已经96岁）。1986年，David Kleiman开始在美国陆军服役，担任直升机技术员。1990年他从军队归来，几年后开始在棕榈滩县警长办公室工作。他的培训官是Paige，两人关系非常亲密。David曾送给Paige一台电脑，还会去Paige家帮她女儿安装游戏。两人的工作需要一起巡逻。
 
-David Kleiman生前随身携带一个高防U盘。Paige认为这可能是Corsair品牌制造的，该品牌产品被“航空级铝合金外壳”包裹，昂贵，硬核，高性能，重装甲。据Paige称，该U盘被转交给了他没有血缘关系的弟弟Ira Kleiman，他俩关系不好，已经有多年不联系。Ira Kleiman将给中本聪造成麻烦。他曝光了中本聪的身份。
+David Kleiman生前随身携带一个高防U盘。Paige认为是Corsair品牌，该品牌U盘被航空级铝合金外壳包裹，昂贵，硬核，高性能，重装甲。据Paige称，该U盘被转交给了他没有血缘关系的弟弟Ira Kleiman，他俩关系不好，已经有多年不联系。Ira Kleiman将给中本聪造成麻烦。他曝光了中本聪的身份。
 
 ---
 
