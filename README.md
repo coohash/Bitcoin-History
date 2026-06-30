@@ -1037,6 +1037,154 @@ Craig Wright为了混淆视听，开始声东击西，他从27971个地址列表
 
 从这145个地址，你能挖掘到哪些信息呢？让我们先把时区分为UTC和悉尼时间UTC+10。
 
+| 原始时间 (UTC) | 转换时间 (本地) | 历时 | 分钟数 | 钱包地址 / ID |
+| :--- | :--- | :--- | :--- | :--- |
+| "5/11/2009, 21:37:45" | 2009/5/12 7:37 | - | - | 1JaKriNjceGmggKYQkURmatQv6LXyvUiAB |
+| "5/11/2009, 22:00:34" | 2009/5/12 8:00 | 23分钟 | 23 | 1CpkvbaAhn81Vc4vbx1yr9jGuETvetutBj |
+| "5/12/2009, 20:22:44" | 2009/5/13 6:22 | 22小时 22分钟 | 1342 | 1MwWRaka2dQySercEFgZDenBvWpHw3kvCz |
+| "5/14/2009, 09:17:26" | 2009/5/14 19:17 | 1天 12小时 55分钟 | 2215 | 16BBCJoyBBuyk2bKM64EGCADgiacdpBsKP |
+| "5/14/2009, 15:36:04" | 2009/5/15 1:36 | 6小时 19分钟 | 379 | 13jEwgtkahPdHQkPTtbHwFm6mvC4Vq71Tj |
+| "5/16/2009, 08:06:11" | 2009/5/16 18:06 | 1天 16小时 30分钟 | 2430 | 19aXsBvYyGeiFnAbCaGWtmeQwiFFxzH3mZ |
+| "5/18/2009, 20:24:35" | 2009/5/19 6:24 | 2天 12小时 18分钟 | 3618 | 13forcak6Mv1ZYBo9wv3zeWB8UhDwBJr5S |
+| "5/19/2009, 04:31:06" | 2009/5/19 14:31 | 8小时 7分钟 | 487 | 1F39FW9NU8tuSCVhxVstd7piVSNw4YVGxY |
+| "5/19/2009, 06:52:59" | 2009/5/19 16:52 | 2小时 21分钟 | 141 | 12isdcKgXGQt1F42tCYHPevErL7rsax4Uc |
+| "12/14/2009, 15:46:00" | 2009/12/15 1:46 | 209天 8小时 54分钟 | 301494 | 1C4Ym7bZZffCCjtRwcwvR6phVzCwQDyEK7 |
+| "12/14/2009, 19:15:55" | 2009/12/15 5:15 | 3小时 29分钟 | 209 | 1KF7rv8hTcC88MHeYzKwBuACoecWaQJ91m |
+| "12/15/2009, 04:55:39" | 2009/12/15 14:55 | 9小时 40分钟 | 580 | 1MhpaS75Xxxyqvcv3CLBwz2L76gDDpysJm |
+| "12/16/2009, 05:29:32" | 2009/12/16 15:29 | 1天 34分钟 | 1474 | 1Bn5U322mFuMKyoC9jKayfzbrpe3T3QscR |
+| "12/16/2009, 19:07:35" | 2009/12/17 5:07 | 13小时 38分钟 | 818 | 1D1Ci72Bhde38avQjP2Gyy6ZGhP2mgvoik |
+| "12/17/2009, 04:04:34" | 2009/12/17 14:04 | 8小时 57分钟 | 537 | 1LXUhX4tXfWGekjucDASYWSsPzYLhYM282 |
+| "12/17/2009, 08:40:43" | 2009/12/17 18:40 | 4小时 36分钟 | 276 | 1JqT7snx8i7zmx748FYJbXfXEeXdMgWr6d |
+| "12/17/2009, 12:54:10" | 2009/12/17 22:54 | 4小时 14分钟 | 254 | 15JM7KfaXPwhYRpDkAeE6YxVhC5bRusWk5 |
+| "12/17/2009, 13:01:22" | 2009/12/17 23:01 | 7分钟 | 7 | 1FDs6tF2wxAPhPKgkT4eCd51WWqYuFdXXR |
+| "12/17/2009, 14:17:16" | 2009/12/18 0:17 | 1小时 16分钟 | 76 | 1Mfjtt7aJEkwcoocokQxLNE1jDEqh6LFKF |
+| "12/17/2009, 16:03:05" | 2009/12/18 2:03 | 1小时 46分钟 | 106 | 1KkajS3KDciJbfKk2Vg2SjUE6eKdiMktAa |
+| "12/17/2009, 17:58:07" | 2009/12/18 3:58 | 1小时 55分钟 | 115 | 1Bh4Vari8LcDcdH2qWJVK5sN4dA4vWfQe3 |
+| "12/17/2009, 20:05:33" | 2009/12/18 6:05 | 2小时 7分钟 | 127 | 16TqRUQtrBRv9jnpuyVFEH43SRKZhqrCQ7 |
+| "12/17/2009, 21:38:33" | 2009/12/18 7:38 | 1小时 33分钟 | 93 | 12Ft7JjoqV6fTzUA3mRnosDYtJekVqnZpT |
+| "12/17/2009, 23:58:14" | 2009/12/18 9:58 | 2小时 20分钟 | 140 | 12CTHhyJtr49LgoUShbWgebLBviLAFj6nj |
+| "12/18/2009, 11:16:54" | 2009/12/18 21:16 | 11小时 18分钟 | 678 | 1LpCzHxxWasKBUCqbyXRUsKn1RSvNaRupT |
+| "12/18/2009, 11:47:11" | 2009/12/18 21:47 | 31分钟 | 31 | 12MZnJfu7GNrC8bSPuZhgNDr9otmUZnALu |
+| "12/18/2009, 13:20:47" | 2009/12/18 23:20 | 1小时 33分钟 | 93 | 1BPqcdb4kzgoPyjpyrL9xzhmMsJS5eQqvw |
+| "12/18/2009, 13:40:33" | 2009/12/18 23:40 | 20分钟 | 20 | 1Q3HYAZwnooayQZWEkYSThT353KcbpFF3P |
+| "12/18/2009, 14:42:48" | 2009/12/19 0:42 | 1小时 2分钟 | 62 | 1GgLxr81StVBpRQPNQKnSF25kyEcpHCnz5 |
+| "12/18/2009, 17:42:57" | 2009/12/19 3:42 | 3小时 | 180 | 1B8tBmGzxLynfxop38RpNaJ8SM5wr3oj4W |
+| "12/18/2009, 20:52:53" | 2009/12/19 6:52 | 3小时 10分钟 | 190 | 15StD6n2ZTygoc7PM2bY13aAkwybNBUwn8 |
+| "12/18/2009, 22:10:04" | 2009/12/19 8:10 | 1小时 18分钟 | 78 | 18DfVFHfCAVFBhbmBLYxsE3HZqpaSu1Wvw |
+| "12/18/2009, 22:52:19" | 2009/12/19 8:52 | 42分钟 | 42 | 1BQqVjRAGndm8tRrwQNwdgJR8yhhDxXzE7 |
+| "12/18/2009, 23:58:04" | 2009/12/19 9:58 | 1小时 6分钟 | 66 | 1HenciVLZmE9ugshcrW3GtZttP1bqr8W3s |
+| "12/19/2009, 05:05:25" | 2009/12/19 15:05 | 5小时 7分钟 | 307 | 19bf2fMfCt1b3MLbHwahJfdUNoZXTxYd5D |
+| "12/19/2009, 14:49:18" | 2009/12/20 0:49 | 9小时 44分钟 | 584 | 1GwaiUArAF6MfSPV8SwCnp5LKEEbu9qrQ9 |
+| "12/19/2009, 21:07:50" | 2009/12/20 7:07 | 6小时 18分钟 | 378 | 1BzknixNDGfyesGcTbFuyEiD2nyCgEY6rS |
+| "12/20/2009, 05:06:05" | 2009/12/20 15:06 | 7小时 59分钟 | 479 | 1zo1ifkrGNggtBKPhCn4486xHaaWBbXUd |
+| "12/20/2009, 08:30:38" | 2009/12/20 18:30 | 3小时 24分钟 | 204 | 1HRhFWoCspCQWfnotkHPc7Joi4XHjRBi8Z |
+| "12/20/2009, 08:49:50" | 2009/12/20 18:49 | 19分钟 | 19 | 1NVTcGUYSP6s4zH95ex86ctATzv8peV5mR |
+| "12/20/2009, 13:30:44" | 2009/12/20 23:30 | 4小时 41分钟 | 281 | 1EmRU4xtkAsisWyALP7cJnRcWkkWHs9DvW |
+| "12/20/2009, 21:35:33" | 2009/12/21 7:35 | 8小时 5运行 | 485 | 12JMQYae1sR4FMupqHYafeGqJUY3kf4A3M |
+| "12/21/2009, 00:53:39" | 2009/12/21 10:53 | 3小时 18分钟 | 198 | 1DYXvem7TuGT3oLgF2RsWyVc5ec1sJ82tH |
+| "12/21/2009, 09:23:11" | 2009/12/21 19:23 | 8小时 30分钟 | 510 | 1NChqEan8XUff1YPtgPYC9q2prfR1rXu9L |
+| "12/21/2009, 10:36:09" | 2009/12/21 20:36 | 1小时 13分钟 | 73 | 1C6BG4rqDdnaC3t3mzapNu46j9yVv1x4Eo |
+| "12/21/2009, 10:50:46" | 2009/12/21 20:50 | 14分钟 | 14 | 1H6ou5ZVaKzyoV3ujeiSqQHncJv831RTcz |
+| "12/21/2009, 13:15:52" | 2009/12/21 23:15 | 2小时 25分钟 | 145 | 1NVou7bbmdsdVLEphqZadmX2gbR3QCDPAz |
+| "12/21/2009, 13:38:30" | 2009/12/21 23:38 | 23分钟 | 23 | 1FbPLPR1XoufBQRPGd9JBLPbKLaGjbax5m |
+| "12/21/2009, 15:29:42" | 2009/12/22 1:29 | 1小时 51分钟 | 111 | 1KC2mZujBHLTD2NPQycfDowSfni895pXL9 |
+| "12/22/2009, 22:17:45" | 2009/12/23 8:17 | 1天 6小时 48分钟 | 1848 | 1EuHqvmmDA6dFRmDyu4rzk8b7VkAmEn7Vq |
+| "12/22/2009, 22:34:02" | 2009/12/23 8:34 | 17分钟 | 17 | 18qJJUcMRWyXhMXR3F18vJXaHJRPYrxwYm |
+| "12/23/2009, 09:57:57" | 2009/12/23 19:57 | 11小时 23分钟 | 683 | 1MUzEx65ycYArLPPhxecjKBj4pzMmmjfsu |
+| "12/23/2009, 10:00:18" | 2009/12/23 20:00 | 3分钟 | 3 | 12KFCJLu9D7PzbZgBLuNMj2MpfgzdDJ7kR |
+| "12/24/2009, 05:25:50" | 2009/12/24 15:25 | 19小时 25分钟 | 1165 | 1P5itXj2ET31bwGTwFx4Xb6EMaGaMRgTtP |
+| "12/24/2009, 05:58:38" | 2009/12/24 15:58 | 33分钟 | 33 | 1L85SkdcRjMuLYuiKKq5QPywxHUs4GertE |
+| "12/24/2009, 17:51:31" | 2009/12/25 3:51 | 11小时 53分钟 | 713 | 1PGZSrRhYbDDDJPiZHW47ffSFUGTkch2n5 |
+| "12/25/2009, 01:07:18" | 2009/12/25 11:07 | 7小时 16分钟 | 436 | 1yKCpySRz2YQCGoovGSW7wASo9Jp7yhEF |
+| "12/25/2009, 13:40:10" | 2009/12/25 23:40 | 12小时 33分钟 | 753 | 1MjLPVSZBZ7YWjdMrf4DUus4DVAFkpgAmD |
+| "12/25/2009, 15:42:21" | 2009/12/26 1:42 | 2小时 2分钟 | 122 | 1NcXJKwGAbsSBCi86zjgFsLCT8HoT9nVTW |
+| "12/26/2009, 22:23:43" | 2009/12/27 8:23 | 1天 6小时 41分钟 | 1841 | 14RdV6JPBrTVeV5MfFqhGgfsZhMhCFotoQ |
+| "12/27/2009, 01:11:14" | 2009/12/27 11:11 | 2小时 48分钟 | 168 | 1Ba8UQfeUVjSRw8uHNSJ9wZqAZCSqweP19 |
+| "12/27/2009, 02:05:40" | 2009/12/27 12:05 | 54分钟 | 54 | 17gzLQ924bNxXBHjgJVBaJEQAKVYTqzaR2 |
+| "12/27/2009, 03:24:34" | 2009/12/27 13:24 | 1小时 19分钟 | 79 | 1Ey9QHtKgcY6aLDLW2xBoMxPJbaXxZcyAK |
+| "12/27/2009, 08:14:03" | 2009/12/27 18:14 | 4小时 50分钟 | 290 | 1KnT26DTvstGKW7P6BxMBEz8QbKa1iix9C |
+| "12/27/2009, 17:26:57" | 2009/12/28 3:26 | 9小时 12分钟 | 552 | 1HTUif11qDAwse9fAXwcdM6o4QPx1hqrio |
+| "12/27/2009, 22:49:35" | 2009/12/28 8:49 | 5小时 23分钟 | 323 | 1MN82eH1Eu3hznewHFkfsAajknhj78Uup5 |
+| "12/27/2009, 22:50:14" | 2009/12/28 8:50 | 1分钟 | 1 | 1X5NfjvcBzdidakWzw37YQPXkBqXr4e6X |
+| "12/27/2009, 23:16:52" | 2009/12/28 9:16 | 26分钟 | 26 | 1FUjNePwqBv2gcGZFTkCM88jTqD2gWL4NA |
+| "12/28/2009, 04:16:24" | 2009/12/28 14:16 | 5小时 | 300 | 15mVDLozNmscibeBCy33yYyH7AKdsuAcKe |
+| "12/28/2009, 10:11:58" | 2009/12/28 20:11 | 5小时 55分钟 | 355 | 1Mc9yttKMqBVWeUUzAHgvq6gzmgLLyELhY |
+| "12/28/2009, 16:28:23" | 2009/12/29 2:28 | 6小时 17分钟 | 377 | 17KSkVatkQBSRDJukfMtgbYFQ2M3uvBL59 |
+| "12/28/2009, 18:21:53" | 2009/12/29 4:21 | 1小时 53分钟 | 113 | 1MRHrSxnmtUTv48UpxorA9PX2nSEC9yndi |
+| "12/28/2009, 19:04:56" | 2009/12/29 5:04 | 43分钟 | 43 | 15RJkhWxG3PP5AzfR1AHVWovZxFt3nFysN |
+| "12/29/2009, 01:05:17" | 2009/12/29 11:05 | 6小时 1分钟 | 361 | 15zQPNWD3uAa812THBgQP4rVSiYCBRpZ3N |
+| "12/29/2009, 03:48:46" | 2009/12/29 13:48 | 2小时 43分钟 | 163 | 1NqxEQi9pgmoCzi5vh43ByT9EgAbQqcW2o |
+| "12/29/2009, 08:20:15" | 2009/12/29 18:20 | 4小时 32分钟 | 272 | 1HtMsYAjGKqnehgCXpTz8UkAw44ZLGdAJf |
+| "12/29/2009, 12:49:18" | 2009/12/29 22:49 | 4小时 29分钟 | 269 | 17WSviRk42u6vUbLg1xUixCQfC5t1zgjQX |
+| "12/29/2009, 13:09:44" | 2009/12/29 23:09 | 20分钟 | 20 | 14CmMfkbvkfzM1cU68wZMVBwJuSE3iN7Ns |
+| "12/29/2009, 13:41:38" | 2009/12/29 23:41 | 32分钟 | 32 | 1NWRrbPwHhpp28eQeman5YRV84D2aYe1Yw |
+| "12/29/2009, 19:21:50" | 2009/12/30 5:21 | 5小时 40分钟 | 340 | 1Ef6TCo7MMqMepWZ6tKAAEUyigTqJWpjPT |
+| "12/29/2009, 20:40:26" | 2009/12/30 6:40 | 1小时 19分钟 | 79 | 189k1PT89s9tUMigeJxHoccu44QRwEc2Tf |
+| "12/30/2009, 02:25:53" | 2009/12/30 12:25 | 5小时 45分钟 | 345 | 17u34144cabkgraRhwLuzKUANYzf7UB5Jq |
+| "12/30/2009, 05:08:39" | 2009/12/30 15:08 | 2小时 43分钟 | 163 | 12jaQdf2C29Cobh3XZHj4WoPk8o91MK4jy |
+| "12/30/2009, 05:46:55" | 2009/12/30 15:46 | 38分钟 | 38 | 1LJc6PhvkmLvcqg8wcjJw29kXXm6rfFGMi |
+| "12/30/2009, 07:05:39" | 2009/12/30 17:05 | 1小时 19分钟 | 79 | 1EwiVkDkBLVUaoPuFVzW9NA82iaUUPZruU |
+| "12/31/2009, 03:31:06" | 2009/12/31 13:31 | 20小时 26分钟 | 1226 | 1LTXYmotcmkwp65Zv1UtcKaRNRrFQYmduP |
+| "12/31/2009, 05:37:04" | 2009/12/31 15:37 | 2小时 6分钟 | 126 | 151iVadZ37FF6JLSZzjGyM21U3pBv8tyt2 |
+| "12/31/2009, 06:05:39" | 2009/12/31 16:05 | 28分钟 | 28 | 16TGQooBCkfV68AKPEKJ8HG4dUEecmSckv |
+| "12/31/2009, 23:30:50" | 2010/1/1 9:30 | 17小时 25分钟 | 1045 | 1FxyVmPEsnqnVS8baCjyuTDsdFHB7reTam |
+| "12/31/2009, 23:31:59" | 2010/1/1 9:31 | 1分钟 | 1 | 1EAGWgwskQB6o3f1GGsbsWShXPr77QiULE |
+| "1/01/2010, 03:28:39" | 2010/1/1 13:28 | 3小时 57分钟 | 237 | 18sxpzUF2QK3WBiaNUt5oyFV7fcuL9xRo4 |
+| "1/01/2010, 05:16:48" | 2010/1/1 15:16 | 1小时 48分钟 | 108 | 1DYHUEjrVE5gyKAn7P13wuRhs6x9EeijBX |
+| "1/01/2010, 07:36:22" | 2010/1/1 17:36 | 2小时 20分钟 | 140 | 1FuF5iWcHnEPMAhpk5cH7bzdZqjvKTdwka |
+| "1/01/2010, 07:37:03" | 2010/1/1 17:37 | 1分钟 | 1 | 14ZiwXFoDVKoxVyKjeZjdtSHsYnJxSRFSH |
+| "1/01/2010, 08:26:40" | 2010/1/1 18:26 | 49分钟 | 49 | 1HGHEhR1tFjiF895SC2PHgRiZyGjpTV5dg |
+| "1/01/2010, 10:58:02" | 2010/1/1 20:58 | 2小时 32分钟 | 152 | 1M2iLUvkkm12zE1EjARx46XXA1EZzsfxos |
+| "1/01/2010, 11:35:21" | 2010/1/1 21:35 | 37分钟 | 37 | 1FXcjyxCRuJkY72zrLxBjtEReQdv4f89pc |
+| "1/01/2010, 13:18:35" | 2010/1/1 23:18 | 1小时 43分钟 | 103 | 1LK8dnWdxZWxLcdTCpqHRebGwwVcMAPo6X |
+| "1/01/2010, 19:34:09" | 2010/1/2 5:34 | 6小时 16分钟 | 376 | 1Q9mvLQSHc4if71KZPG43re568u65ikQo1 |
+| "1/01/2010, 23:17:37" | 2010/1/2 9:17 | 3小时 43分钟 | 223 | 1JMPLmKGdgD9Dtz3a4b4HpQzxZ69uVvUbS |
+| "1/02/2010, 01:12:53" | 2010/1/2 11:12 | 1小时 55分钟 | 115 | 19PYG68GkQ9nY99QeUSyUFy6vWxSyPmXA8 |
+| "1/02/2010, 11:58:18" | 2010/1/2 21:58 | 10小时 46分钟 | 646 | 1CdZDnukUZ4QK3Ynjk5hukupczV2zzrXPh |
+| "1/02/2010, 13:45:51" | 2010/1/2 23:45 | 3小时 47分钟 | 227 | 12cFuwo1i3FMhkmJoCN8D4SjeCeRsXf96q |
+| "1/02/2010, 22:09:04" | 2010/1/3 8:09 | 6小时 24分钟 | 384 | 1FVD5rzMP6tR8JuubgYSFLopiP33HnSGkZ |
+| "1/03/2010, 03:52:50" | 2010/1/3 13:52 | 5小时 43分钟 | 343 | 1PwaHB72F5nb7hurX8jmC93MUDtMqHgdCY |
+| "1/03/2010, 03:54:50" | 2010/1/3 13:54 | 2分钟 | 2 | 1BMnca8dAqphg9e98ALoZyJch2NmDirvyY |
+| "1/03/2010, 09:10:59" | 2010/1/3 19:10 | 5小时 16分钟 | 316 | 1BPo3xfuLWD5xZRVU61o9bEbW2XXyWLduY |
+| "1/03/2010, 19:39:12" | 2010/1/4 5:39 | 10小时 29分钟 | 629 | 15yfaq9UKSvPFTpP2q3VHwMfW8edwrxV7z |
+| "1/03/2010, 21:33:26" | 2010/1/4 7:33 | 1小时 54分钟 | 114 | 1NdmEC5HxfLSH6Z5xoxQUC8h3sfFoTSSRD |
+| "1/04/2010, 07:06:36" | 2010/1/4 17:06 | 9小时 33分钟 | 573 | 12Q8NX5RdYYAf8gA9NM5DALzWWtU5dZHxW |
+| "1/04/2010, 09:20:59" | 2010/1/4 19:20 | 2小时 14分钟 | 134 | 18pxRfY6BgE4W4gSfog6FFZBwGs1fcEre5 |
+| "1/04/2010, 12:36:45" | 2010/1/4 22:36 | 3小时 16分钟 | 196 | 1EpU3v1wRsPxBkpCsZCiA8QGa8jYXSREi8 |
+| "1/04/2010, 17:45:27" | 2010/1/5 3:45 | 5小时 9分钟 | 309 | 1DkxqjACGihnBHhiWGuJUMVRco6LHFpovT |
+| "1/04/2010, 18:29:27" | 2010/1/5 4:29 | 44分钟 | 44 | 1BByuLe4598R4cxG163Y4g2th5yu5D2x98 |
+| "1/05/2010, 13:30:17" | 2010/1/5 23:30 | 19小时 1分钟 | 1141 | 1LfgsdyXxa59sggxG7iHC2jZdy26fWqBij |
+| "1/05/2010, 13:58:35" | 2010/1/5 23:58 | 28分钟 | 28 | 1LBUqhwVyUZ8QZw8UCEbgFQjDFjikL1CSB |
+| "1/05/2010, 17:09:46" | 2010/1/6 3:09 | 3小时 11分钟 | 191 | 1VketozRRbdwxygHPRh4BL4jQgnH3xPWt |
+| "1/05/2010, 17:11:54" | 2010/1/6 3:11 | 2分钟 | 2 | 1HCvxY4EW8P7EpXCYpRTLrrNuRfEdb4wuV |
+| "1/05/2010, 18:03:19" | 2010/1/6 4:03 | 52分钟 | 52 | 1FTtHk9sc29yJXWcxKJdKz8C6YHyAQMgwU |
+| "1/05/2010, 22:29:13" | 2010/1/6 8:29 | 4小时 26分钟 | 266 | 1LVWSzpeQyoHYPzDuYVktPuH8qJqBiskUF |
+| "1/06/2010, 03:52:00" | 2010/1/6 13:52 | 5小时 23分钟 | 323 | 1LWFZazDBRt6bGDb8ukkCo4H9o297S8pma |
+| "1/06/2010, 11:09:17" | 2010/1/6 21:09 | 7小时 17分钟 | 437 | 13PaeVWHFvEVWjUJiCAono12o39CLeBEEd |
+| "1/06/2010, 13:31:13" | 2010/1/6 23:31 | 2小时 22分钟 | 142 | 1MNaNPHzju2KWAoPshfDBxknSSC5dWkfy |
+| "1/07/2010, 14:05:47" | 2010/1/8 0:05 | 1天 34分钟 | 1474 | 1K3Qs6bx1wnxCjLcb6jxfjk5kksSJh1WyK |
+| "1/07/2010, 15:45:46" | 2010/1/8 1:45 | 1小时 40分钟 | 100 | 1AfE9BbPDPGx8egt5qRBo5vLDiy4RrLNeV |
+| "1/08/2010, 00:39:12" | 2010/1/8 10:39 | 8小时 54分钟 | 534 | 1PDUuvJfhoiijbqnGeHZZwXRJoBCsaQSr9 |
+| "1/08/2010, 02:18:58" | 2010/1/8 12:18 | 1小时 39分钟 | 99 | 1MraZtUepR19wk9Nti8dTnfUKDmXZUigT5 |
+| "1/08/2010, 05:22:04" | 2010/1/8 15:22 | 3小时 4运行 | 184 | 12KFrqyEEtdvrSvfWvXYtieKoFZgoSgbXi |
+| "1/08/2010, 06:01:24" | 2010/1/8 16:01 | 39分钟 | 39 | 12vQPdDVU8KHeXMSXBY7e4rRierNjWETLi |
+| "1/08/2010, 07:32:28" | 2010/1/8 17:32 | 1小时 31分钟 | 91 | 1MTMH8rnXtfTkPrNt9xpZVy2D95sKf8hYy |
+| "1/08/2010, 11:58:22" | 2010/1/8 21:58 | 4小时 26分钟 | 266 | 17iZXQzMYjxBxRbThhs36fmgR3cRKuD1yP |
+| "1/08/2010, 13:02:57" | 2010/1/8 23:02 | 1小时 4分钟 | 64 | 1VaPTvD7fn6dYN9ka9WUi3jN9mBiGnWF1 |
+| "1/08/2010, 16:37:02" | 2010/1/9 2:37 | 3小时 35分钟 | 215 | 1Kynn7w9MF8hUvqdaHRKY4KLWtwnGdH2Uo |
+| "1/08/2010, 19:40:21" | 2010/1/9 5:40 | 3小时 3分钟 | 183 | 1PLU3ytAptPgHXWujCrcxLzqg4LdFX2bu2 |
+| "1/08/2010, 20:17:25" | 2010/1/9 6:17 | 37分钟 | 37 | 1KH2yPhaxPKKh53Vqkghjn2jfXDJWHRpbJ |
+| "1/09/2010, 00:23:49" | 2010/1/9 10:23 | 4小时 6分钟 | 246 | 1Gd6DBfutYmwr6Z7CtV8pQiRXG3ZGhw8GX |
+| "1/09/2010, 00:24:15" | 2010/1/9 10:24 | 1分钟 | 1 | 1LHgE4M96DyCt7J5H2wzcVPWNJt9zD1U5f |
+| "1/09/2010, 02:51:44" | 2010/1/9 12:51 | 2小时 27分钟 | 147 | 1DpuecprK8vV6A4FtHU6VLqkUs4D2P59PU |
+| "1/09/2010, 05:51:54" | 2010/1/9 15:51 | 3小时 | 180 | 153w6WiJW1Z2uKYegDVVbbBYYhzps6VmWr |
+| "1/09/2010, 12:45:14" | 2010/1/9 22:45 | 6小时 54分钟 | 414 | 19TfJPQDTFT4uZj8vYn4ff3rxRxBTBELu |
+| "1/09/2010, 17:31:45" | 2010/1/10 3:31 | 4小时 46分钟 | 286 | 1LBmJDqhNboEbyJveb8jB5TNKW5GW7qboN |
+| "1/09/2010, 19:24:07" | 2010/1/10 5:24 | 1小时 53分钟 | 113 | 1HhHqRamECC7y4qfSEeYNvLJKCRUkxBY1u |
+| "1/09/2010, 20:02:29" | 2010/1/10 6:02 | 38分钟 | 38 | 1CoFNuTemGzFPHqkuz2Ai5ZaweM7zfPJE6 |
+| "1/09/2010, 21:20:39" | 2010/1/10 7:20 | 1小时 18分钟 | 78 | 17fH8bs2eBSxYC4fLQgVPWXw2cV5bNrpon |
+| "1/10/2010, 00:16:01" | 2010/1/10 10:16 | 2小时 56分钟 | 176 | 1LsZpodgMzW8bzHiSQS1kpZu9JzpdVLPB9 |
+
 1：从 2009年12月14日 到 2010年1月10日，总天数差为27天，632小时。挖出136个区块（6800枚），平均每4.65小时挖出1个区块。
 2：红底：出块时间超过10个小时没挖出区块，说明期间关机了。关机15次。（这是一台个人电脑，频繁关机）。
 3：绿底：出块时间小于30分钟。17次。（这是台式机，它算力一加入，显著缩短出块时间）。
@@ -1058,7 +1206,11 @@ Craig Wright为了混淆视听，开始声东击西，他从27971个地址列表
 
 中本聪一直在卖比特币，2009年1月16日开始，到2010年1月，中本聪进行了约40次比特币的归集，最后于2011年6月5日-6月28日之间，通过地址（12higDjoCCNXSA95xZMWUdPvXNmkAduhWv）卖出77622枚比特币。当时比特币的价格约6-19美元，预计套现50-100万美元。这也是比特币第一次大规模的流入市场。从一个早期区块235你可以看出，中本聪从2010年11月开始，在价格0.3区间，就陆续的归集比特币出售，区块2775、3549、4164、7312、8970等痕迹都证明了这点。
 
-每年都在卖，2017-2026，10年时间卖了10300枚，2024年卖出64个地址里的3200枚套现约2.5亿，2005年套现约5000万，2026年上半年套现约5000万。
+每年都在卖，2017-2026，10年时间卖了10300枚，2024年卖出64个地址里的3200枚套现约2.5亿，2005年套现约5000万，2026年上半年套现约5000万。这只是有确切数据的冰山一角。
+
+在童话故事里，中本聪挖出了110万枚比特币，然后他离开了。
+
+2026年6月27日，Craig Wright晒出了和妻子在摩天大楼的照片，他说：Sorry trolls. We are still strong。喷子们，我们依然强大。下面有人留言：Bro gets to live the life of Satoshi. without the burden of being Satoshi。你过着中本聪该有的生活，还不需承受中本聪的重负。Craig Wright回答：Yep
 
 ---
 
