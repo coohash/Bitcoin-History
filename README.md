@@ -510,8 +510,7 @@ Kleiman v. Wright案件最讽刺的地方，就是从一个维护家人利益的
 
 中本聪是一个凡人，那是 Craig Wright 人生中最黑暗的2016年5月。他逃亡英国，却被新的东家推向风口浪尖，面对BBC和经济学人的镜头，他被迫承诺那场要命的签名验证。作为一个弄丢了110万枚比特币的凡人，面对整个比特币社区核心人物的群体背刺，他的精神世界彻底崩塌了。他用一把刀刺向了自己的脖子（stabbing himself in the neck）。随后他被紧急送往圣乔治医院的急诊部门接受抢救，因伤势被列为“重大创伤（Major Trauma）”级别。出院后，他在博客写下《我很抱歉》：“我崩溃了，我没有勇气，我做不到……”
 
-确定了，他在2013年丢失了110万枚比特币。
-确定了，他是一个信守承诺的君子，他没有为自己额外备份一份私钥列表。
+他放弃了证明自己，他丢失了110万枚比特币。
 
 ---
 
@@ -1448,7 +1447,6 @@ Craig Wright回答：**Yep** <br/>
 
  ![Author](https://img.shields.io/badge/作者-卓宁-555555?style=flat-square&logo=probot)  [![Email](https://img.shields.io/badge/Email-cooooo%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:cooooo@gmail.com) [![X (formerly Twitter)](https://img.shields.io/badge/X-%40psalmsa-black?style=flat-square&logo=x)](https://x.com/psalmsa) ![Share](https://img.shields.io/badge/分享-欢迎转发-success?style=flat-square) ![License](https://img.shields.io/badge/要求-转载请注明出处-fe7a16?style=flat-square)
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-AR4j2MginGAS9zZzG1Y2rxZz43555592517-blueviolet?labelColor=555555)](1NzvF8YJriRJLnHo9eYMVhLcGACALC2a4c)
 
 ---
 
