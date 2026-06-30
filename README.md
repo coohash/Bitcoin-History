@@ -1425,8 +1425,9 @@ Craig Wright为了混淆视听，开始声东击西，他从27971个地址列表
 
 
 2026年6月27日，Craig Wright晒出了和妻子在摩天大楼的照片，他说：Sorry trolls. We are still strong。喷子们，我们依然强大。<br/>
-下面有人留言：Bro gets to live the life of Satoshi. without the burden of being Satoshi。你过着中本聪该有的生活，还不需承受中本聪的重负。<br/>
-Craig Wright回答：Yep <br/>
+下面有人留言：Bro gets to live the life of Satoshi. without the burden of being Satoshi。你过着中本聪的生活，还不需承担中本聪的责任。<br/>
+
+Craig Wright回答：**Yep** <br/>
 
 比特币社区，以平均每年1亿美元的价格，供养着中本聪。
 
