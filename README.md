@@ -1431,6 +1431,7 @@ Craig Wright为了混淆视听，开始声东击西，他从27971个地址列表
 
 在童话故事里，中本聪挖出了110万枚比特币，然后他离开了。
 
+2003 年，Craig Wright 获得了 “神学博士学位”，论文题目是《创造神话的盘根错节》。这才是故事的起点。
 
 2026年6月27日，Craig Wright晒出了和妻子在摩天大楼的照片，他说：Sorry trolls. We are still strong。喷子们，我们依然强大。<br/>
 下面有人留言：Bro gets to live the life of Satoshi. without the burden of being Satoshi。你过着中本聪的生活，还不需承担中本聪的责任。<br/>
@@ -1438,6 +1439,8 @@ Craig Wright为了混淆视听，开始声东击西，他从27971个地址列表
 Craig Wright回答：**Yep** <br/>
 
 比特币社区，以平均每年1亿美元的价格，供养着中本聪。
+
+
 
 ---
 
