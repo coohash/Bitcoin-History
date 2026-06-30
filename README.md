@@ -695,6 +695,12 @@ Craig Wright 开启了他在伦敦的自证之路，他也开启了2016年整个
 
 想让专利卖出高价，第一步是说服整个加密社区相信Craig Wright就是Satoshi Nakamoto。中本聪的唯一亲传弟子，比特币项目中级别最高的发言者Gavin Andresen 是最有资格证明中本聪身份的人。
 
+私钥签名的细节，媒体、COPA案证词，对过程的描述存在偏差。我们无从考证当时的细节，因为从技术角度、以及不同的软件，都有不同的操作方法。一台电脑能完成签名认证、两台电脑加U盘也能完成签名认证、断网能完成签名认证、联网也能完成签名认证。这就是算法的魔力。
+
+大步骤就两个：用私钥+内容，生成“Base64 字符串”，然后用字符串+内容验证。生成的签名是 Base64 字符串，类似这样：2aR4lYa2zvQoZFbfnsEDsk2Y6oNDzDszBj/3QljTJehJKYvcPeZWJCnkJeU8gSHF75fc2wrGJztWGBYMdl3IIA==。验证它，只有对或不对两种结果。
+
+但请确信一点：除了中本聪，Gavin Andresen是地球上最懂比特币的人。没有人忽悠的了他。
+
 Gavin Andresen于4 月 6 日 21:35从美国东海岸一夜飞行抵达伦敦，入住位于10 Monmouth Street, London, WC2H 9HB的考文特花园酒店（Covent Garden Hotel）。
 
 因为经过了6.5 小时飞行，Gavin睡到中午，下午13点和Stefan Matthews和Rob MacGregor，以及专栏作家Andrew O'Hagan吃午餐。
